@@ -1,3 +1,4 @@
+require 'action_controller/railtie'
 require 'active_record'
 
 require 'antivirus'
