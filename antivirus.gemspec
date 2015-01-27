@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Antivirus::VERSION
   s.authors     = ["kami"]
   s.email       = ["kami30k@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Antivirus."
-  s.description = "TODO: Description of Antivirus."
+  s.homepage    = "https://github.com/kami30k/antivirus"
+  s.summary     = "Profanity filter for Rails application."
+  s.description = "Profanity filter for Rails application."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]

@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    antivirus (0.0.1)
+    antivirus (0.0.1.pre)
       rails (~> 4.2.0)
 
 GEM
