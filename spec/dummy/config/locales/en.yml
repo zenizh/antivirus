@@ -2,3 +2,5 @@ en:
   antivirus:
     profane_words:
       - foo
+      - bar
+      - baz
