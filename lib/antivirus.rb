@@ -1,3 +1,4 @@
+require 'antivirus/version'
 require 'antivirus/railtie' if defined?(Rails)
 
 module Antivirus
