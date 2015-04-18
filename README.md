@@ -21,10 +21,9 @@ $ bundle
 
 ## Usage
 
-Profane words define as array in `config/locales/*.yml`.
-You can define profane words in `antivirus.profane_words`.
+Define profane words as array in `config/locales/*.yml` with `antivirus.profane_words` key.
 
-`antivirus.message` is an error message when target includes profane words.
+`antivirus.message` key is an error message when value includes profane words.
 
 ```yml
 en:
