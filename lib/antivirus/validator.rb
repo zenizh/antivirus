@@ -21,7 +21,7 @@ module Antivirus
 
       def t(key, default)
         value = I18n.t(key, default: '')
-        value.present? ? value : default
+        value.presence || default
       end
     end
   end
