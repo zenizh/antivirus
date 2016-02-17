@@ -2,7 +2,6 @@ $:.unshift File.expand_path('../../../lib', __FILE__)
 
 require 'action_controller/railtie'
 require 'active_record'
-
 require 'antivirus'
 
 module Dummy

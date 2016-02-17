@@ -6,8 +6,8 @@ Gem::Specification.new do |s|
   s.name        = 'antivirus'
   s.version     = Antivirus::VERSION
   s.authors     = 'kami'
-  s.email       = 'kami30k@gmail.com'
-  s.homepage    = 'https://github.com/kami30k/antivirus'
+  s.email       = 'hiroki.zenigami@gmail.com'
+  s.homepage    = 'https://github.com/kami-zh/antivirus'
   s.summary     = 'Profanity filter for Rails application.'
   s.description = 'Profanity filter for Rails application.'
   s.license     = 'MIT'
